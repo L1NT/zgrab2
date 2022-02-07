@@ -1,4 +1,4 @@
-module github.com/zmap/zgrab2
+module github.com/L1NT/zgrab2
 
 go 1.12
 
